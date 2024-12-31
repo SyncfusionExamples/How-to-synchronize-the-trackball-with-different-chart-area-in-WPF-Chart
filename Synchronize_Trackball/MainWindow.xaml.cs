@@ -89,11 +89,6 @@ namespace Synchronize_Trackball
         {
             IsActivated = false;
         }
-
-        // This method is overriden to improve perfomance by preventing the mouse position calculation which we have done already.
-        protected override void OnMouseMove(MouseEventArgs e)
-        {
-        }
     }
 
     public class Data

@@ -24,7 +24,7 @@
             </chart:SfChart.Behaviors>
 
             <chart:SfChart.PrimaryAxis>
-                <chart:DateTimeAxis ShowTrackBallInfo="True" x:Name="axis" LabelFormat="MM/dd/yy"  />
+                <chart:DateTimeAxis ShowTrackBallInfo="True" x:Name="axis" LabelFormat="MMM-dd"  />
             </chart:SfChart.PrimaryAxis>
 
             <chart:SfChart.SecondaryAxis>
@@ -43,7 +43,7 @@
             </chart:SfChart.Behaviors>
 
             <chart:SfChart.PrimaryAxis>
-                <chart:DateTimeAxis ShowTrackBallInfo="True" LabelFormat="MM/dd/yy"/>
+                <chart:DateTimeAxis ShowTrackBallInfo="True" LabelFormat="MMM-dd"/>
             </chart:SfChart.PrimaryAxis>
 
             <chart:SfChart.SecondaryAxis>
