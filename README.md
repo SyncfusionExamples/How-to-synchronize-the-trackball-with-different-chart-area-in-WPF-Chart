@@ -10,7 +10,7 @@ The SfChart is a powerful and flexible charting library designed to render high-
 The TrackballBehavior is a useful feature in the SfChart that enables users to display interactive data tooltips when hovering over a chart. It provides detailed information about data points, such as their X and Y values, and can be customized to display additional content as required.
 
 # Output
-![MainWindow 2025-01-02 12-19-29](https://github.com/user-attachments/assets/3e401e8c-b56c-4de5-a6ae-c13c20af52f9)
+![Synchronize trackballs](https://github.com/user-attachments/assets/3e401e8c-b56c-4de5-a6ae-c13c20af52f9)
 
 
 # Troubleshooting
