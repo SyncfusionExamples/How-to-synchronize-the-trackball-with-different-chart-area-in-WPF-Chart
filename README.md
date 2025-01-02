@@ -1,5 +1,5 @@
 # How to synchronize the trackball in multiple WPF Charts
-This article explains how to synchronize the Trackball in multiple WPF Charts using Syncfusion's SfChart control.Synchronizing the Trackball across multiple charts allows users to view related data points in different charts simultaneously, enhancing the data analysis experience. This is particularly useful when dealing with comparative data spread across multiple series or charts, as it provides a unified interaction mechanism.
+This article explains how to synchronize the Trackball in multiple WPF Charts using Syncfusion's SfChart control. Synchronizing the Trackball across multiple charts allows users to view related data points in different charts simultaneously, enhancing the data analysis experience. This is particularly useful when dealing with comparative data spread across multiple series or charts, as it provides a unified interaction mechanism.
 
 # SFChart
 
