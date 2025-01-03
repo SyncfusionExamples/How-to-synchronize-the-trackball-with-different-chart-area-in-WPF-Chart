@@ -16,4 +16,4 @@ The TrackballBehavior is a useful feature in the SfChart that enables users to d
 # Troubleshooting
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-For a step by step procedure, refer to the ![Synchronize trackball](https://support.syncfusion.com/agent/kb/18530) KB article.
+For a step by step procedure, refer to the ![Synchronize trackball](https://support.syncfusion.com/kb/article/18530/how-to-synchronize-the-trackball-in-multiple-wpf-charts) KB article.
